@@ -1,4 +1,4 @@
-<h1 align="center">🌟 My Wallet - Expense tracking app 🌟</h1>
+<h1 align="left"> My Wallet - Expense tracking app </h1>
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-darkgreen?style=for-the-badge">
