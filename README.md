@@ -24,7 +24,7 @@
 
 ## How to run?
 
-### Step 1: Fork and Clone the Repository
+### Step 1: Fork and Clone the Repository.
 
 1. Fork the repository to your GitHub account.
 
