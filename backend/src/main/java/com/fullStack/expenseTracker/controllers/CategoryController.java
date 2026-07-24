@@ -52,7 +52,6 @@ public class CategoryController {
             throws CategoryServiceLogicException, CategoryNotFoundException {
         return categoryService.enableOrDisableCategory(categoryId);
     }
-
 }
 
 
